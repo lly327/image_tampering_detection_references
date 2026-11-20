@@ -43,3 +43,12 @@ A list of papers, codes and other interesting collections pertaining to image ta
 15. Raghavendra, R., et al. "Transferable Deep-CNN features for detecting digital and print-scanned morphed face images." *2017 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2017. [pdf](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w28/papers/Busch_Transferable_Deep-CNN_Features_CVPR_2017_paper.pdf)<br/>
 16. Bondi, Luca, et al. "Tampering Detection and Localization through Clustering of Camera-Based CNN Features." *IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2017. [pdf](openaccess.thecvf.com/.../Tubaro_Tampering_Detection_and_CVPR_2017_paper.pdf)<br/>
 
+**Recent Contrastive / Transformer / Patch-Aware Methods (local PDFs in [`papers/`](./papers/))**<br/>
+1. Zhou, Jizhe, et al. "Pre-Training-Free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning (NCL)." *ICCV*, 2023. [pdf](./papers/NCL_ICCV2023.pdf) · [arXiv](https://arxiv.org/abs/2309.14900)<br/>
+2. Niloy, Fahim Faisal, Kishor Kumar Bhaumik, and Simon S. Woo. "CFL-Net: Image Forgery Localization Using Contrastive Learning." *WACV*, 2023. [pdf](./papers/CFL-Net_WACV2023.pdf) · [arXiv](https://arxiv.org/abs/2210.02182)<br/>
+3. Wang, Junke, et al. "ObjectFormer for Image Manipulation Detection and Localization." *CVPR*, 2022. [pdf](./papers/ObjectFormer_CVPR2022.pdf) · [arXiv](https://arxiv.org/abs/2203.14681)<br/>
+4. Yang, Anwen, et al. "Aperture: A Patch-Aware Framework for Joint Forgery Detection and Localization." *Vicinagearth* (Springer Nature), 2025. [pdf](./papers/Aperture_Vicinagearth2025.pdf) · [Springer OA](https://doi.org/10.1007/s44336-025-00027-8)<br/>
+5. Mu, Lianrui, et al. "No Pixel Left Behind: A Detail-Preserving Architecture for Robust High-Resolution AI-Generated Image Detection (HiDA-Net)." *ICLR*, 2026. [pdf](./papers/HiDA-Net_ICLR2026.pdf) · [arXiv](https://arxiv.org/abs/2508.17346)<br/>
+6. Sang, Jun, et al. "LPCLNet: Leveraging Local Pixel-Wise Contrastive Learning for Image Tampering Localization." *Information Sciences* (Elsevier), 2026. *PDF not stored (closed access; no OA preprint found).* [DOI](https://doi.org/10.1016/j.ins.2026.123205)<br/>
+See also [`papers/README.md`](./papers/README.md) for sources and verification notes.<br/>
+
